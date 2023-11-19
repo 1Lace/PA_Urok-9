@@ -1,0 +1,15 @@
+C:\Users\Владислав\Documents\PA_Urok-9\EX_64\bin\Debug\net6.0\EX_64.exe
+C:\Users\Владислав\Documents\PA_Urok-9\EX_64\bin\Debug\net6.0\EX_64.deps.json
+C:\Users\Владислав\Documents\PA_Urok-9\EX_64\bin\Debug\net6.0\EX_64.runtimeconfig.json
+C:\Users\Владислав\Documents\PA_Urok-9\EX_64\bin\Debug\net6.0\EX_64.dll
+C:\Users\Владислав\Documents\PA_Urok-9\EX_64\bin\Debug\net6.0\EX_64.pdb
+C:\Users\Владислав\Documents\PA_Urok-9\EX_64\obj\Debug\net6.0\EX_64.csproj.AssemblyReference.cache
+C:\Users\Владислав\Documents\PA_Urok-9\EX_64\obj\Debug\net6.0\EX_64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владислав\Documents\PA_Urok-9\EX_64\obj\Debug\net6.0\EX_64.AssemblyInfoInputs.cache
+C:\Users\Владислав\Documents\PA_Urok-9\EX_64\obj\Debug\net6.0\EX_64.AssemblyInfo.cs
+C:\Users\Владислав\Documents\PA_Urok-9\EX_64\obj\Debug\net6.0\EX_64.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\Documents\PA_Urok-9\EX_64\obj\Debug\net6.0\EX_64.dll
+C:\Users\Владислав\Documents\PA_Urok-9\EX_64\obj\Debug\net6.0\refint\EX_64.dll
+C:\Users\Владислав\Documents\PA_Urok-9\EX_64\obj\Debug\net6.0\EX_64.pdb
+C:\Users\Владислав\Documents\PA_Urok-9\EX_64\obj\Debug\net6.0\EX_64.genruntimeconfig.cache
+C:\Users\Владислав\Documents\PA_Urok-9\EX_64\obj\Debug\net6.0\ref\EX_64.dll
